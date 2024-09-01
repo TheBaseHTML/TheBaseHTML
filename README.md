@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheBaseHTML
+- 👀 I’m interested in code learning
+- 🌱 I’m currently learning code JS
+- 📫 How to reach me: ao0077503@gmail.com
+- 😄 Pronouns: XDev.Special, CoderX and F5
